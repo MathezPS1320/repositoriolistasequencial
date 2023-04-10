@@ -13,9 +13,11 @@ public class Exercicio14
           e na variável multa o valor da multa que João deverá pagar. 
          Imprima os dados do programa com as mensagens adequadas. 
          */
+        
         Locale.setDefault(Locale.US);
         Scanner inputDatas = new Scanner(System.in);
-        
+
+    
         System.out.println("Digite o peso do peixe: ");
         double pesoPeixe = inputDatas.nextDouble();
 
