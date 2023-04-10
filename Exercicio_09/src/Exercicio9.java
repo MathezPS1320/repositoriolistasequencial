@@ -16,7 +16,7 @@ public class Exercicio9 {
         celsius = 5 * ((fahrenheit - 32) / 9);
 
         System.out.printf("Valor convertido de Fahrenheit para Celsius é de: %.2f%n", celsius);
-
+ 
         inputDatas.close();
     }
 }
