@@ -12,7 +12,7 @@ public class Exercicio8 {
         System.out.println("Quanto você ganha por hora e o número de horas trabalhadas no mês: ");
         System.out.printf("Informe quanto você ganha por hora: ");
         workedHours = inputDatas.nextDouble();
-
+ 
         System.out.printf("Informe as horas trabalhadas no mês: ");
         hourWorkedInTheMonth = inputDatas.nextDouble();
 
