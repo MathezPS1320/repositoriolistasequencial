@@ -4,7 +4,7 @@ Estudante de Ciência da Computação - Universidade Unifacs.
 Essa lista tem como objetivo consolidar nossas habilidadeslógicas e resoluções de problemas com uma linguagem de programação em JAVA. 
 
 ## TODOS OS EXÉRCICIIOS DESENVOLVIDOS EM JAVA.
-Faça um Programa que mostre a mensagem "Alo mundo" na tela. \n
+Faça um Programa que mostre a mensagem "Alo mundo" na tela. &nbsp;
 Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 Faça um Programa que peça dois números e imprima a soma.
 Faça um Programa que peça as 4 notas bimestrais e mostre a média.
