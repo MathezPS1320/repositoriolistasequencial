@@ -47,7 +47,7 @@ public class Exercicio15
         System.out.printf("Valor descontato pelo INSS: %.2f%n", discontTaxInss);
         System.out.printf("Valor descontado pelo Sindicato:%.2f%n", discontSyndicate);
         System.out.printf("Valor do salário em líquido: %.2f%n", Math.abs(salaryNet));
-
+ 
         inputDatas.close();
     }    
 
