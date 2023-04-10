@@ -16,7 +16,7 @@ public class Exercicio12
 
         total = ((72.7 * altura) - 58);           
 
-        System.out.println(total);
+        System.out.printf("Resultado:%.2f", total);
  
         inputDatas.close();
     }
